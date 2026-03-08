@@ -2,10 +2,7 @@
 
 > I build mobile systems — not just mobile apps.
 
-Flutter developer with 4+ years of experience shipping 
-production-ready apps. Specializing in offline-first 
-architecture, Clean Architecture, and financial logic for 
-real business operations.
+Flutter developer with a 4+ year professional background in software development, shipping production-ready mobile apps. Specializing in offline-first architecture, Clean Architecture, and financial logic for real business operations.
 
 ## 🚀 Shipped Products
 

@@ -1,8 +1,8 @@
-# Moundhir Bachene — Flutter Engineer & Mobile Product Builder
+# Moundhir Bachene — Software Engineer & Mobile Product Builder
 
-> I build mobile systems — not just mobile apps.
+> I build mobile apps and SaaS products that solve real business problems.
 
-Flutter developer with a 4+ year professional background in software development, shipping production-ready mobile apps. Specializing in offline-first architecture, Clean Architecture, and financial logic for real business operations.
+Software engineer with a 4+ year professional background, building production-ready mobile apps and SaaS platforms. From offline-first Flutter apps to multi-tenant web systems — focused on solving real business problems, not demo projects.
 
 ## 🚀 Shipped Products
 
@@ -21,9 +21,12 @@ Flutter developer with a 4+ year professional background in software development
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 **State Management:** Riverpod · BLoC · Provider  
-**Architecture:** Clean Architecture · Offline-First · Repository Pattern  
+**Architecture:** Clean Architecture · Offline-First · Repository Pattern 
+**Web/SaaS:** Laravel · Filament · PostgreSQL · REST APIs
 **Hardware:** Bluetooth Printing · Biometrics · GPS · Barcode  
 **Distribution:** App Store · Google Play · Custom APK + OTA  
 **CI/CD:** GitHub Actions — format · analyze · test on every push  

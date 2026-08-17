@@ -12,6 +12,8 @@ Flutter developer with a 4+ year professional background in software development
 | [Moody Business](https://apps.apple.com/dz/app/moody-business/id6755526842) | Restaurant Management | ✅ Live on App Store |
 | Van Distribution Pro | Offline-First Field Sales | ✅ Deployed & Sold |
 | Stock Manager | Retail Inventory System | ✅ In Use Daily |
+| Fleet & Car Rental SaaS | Multi-tenant B2B SaaS | ✅ Live in Production |
+| Artisan Marketplace | Two-sided Service Marketplace | 🚧 In Development |
 
 ## 🛠️ Core Stack
 

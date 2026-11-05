@@ -8,11 +8,11 @@ Software engineer with a 4+ year professional background, building production-re
 
 | App | Type | Status |
 |-----|------|--------|
-| [Moody — Food & Mood](https://apps.apple.com/us/app/moody-food-mood/id6751051634) | Consumer + Merchant Dual-App | ✅ Live on App Store |
-| [Moody Business](https://apps.apple.com/dz/app/moody-business/id6755526842) | Restaurant Management | ✅ Live on App Store |
+| [Moody — Food & Mood](https://moody-food.com) | Consumer + Merchant + Driver food delivery platform | ✅ In production in Algeria (Android APK) |
 | Van Distribution Pro | Offline-First Field Sales | ✅ Deployed & Sold |
 | Stock Manager | Retail Inventory System | ✅ In Use Daily |
 | Fleet & Car Rental SaaS | Multi-tenant B2B SaaS | ✅ Live in Production |
+| [PawLink](https://github.com/Maelryn/PAWLINK/tree/main/apps/mobile) | Animal rescue platform, Flutter mobile app (Thirduni Cohort 1) | 🧪 Prototype, backend integration planned |
 | Artisan Marketplace | Two-sided Service Marketplace | 🚧 In Development |
 
 ## 🛠️ Core Stack
@@ -24,16 +24,17 @@ Software engineer with a 4+ year professional background, building production-re
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-**State Management:** Riverpod · BLoC · Provider  
-**Architecture:** Clean Architecture · Offline-First · Repository Pattern 
-**Web/SaaS:** Laravel · Filament · PostgreSQL · REST APIs
-**Hardware:** Bluetooth Printing · Biometrics · GPS · Barcode  
-**Distribution:** App Store · Google Play · Custom APK + OTA  
-**CI/CD:** GitHub Actions — format · analyze · test on every push  
+- **State Management:** Riverpod · BLoC · Provider
+- **Architecture:** Clean Architecture · Offline-First · Repository Pattern
+- **Web/SaaS:** Laravel · Filament · PostgreSQL · REST APIs
+- **Hardware:** Bluetooth Printing · Biometrics · GPS · Barcode
+- **Distribution:** App Store · Google Play · Custom APK + OTA
+- **CI/CD:** GitHub Actions — format · analyze · test on every push
 
 ## 📍 About
 
 - 🎓 MSc Fundamental Informatics & IT — RUDN University, Moscow
+- 🏅 Thirduni Cohort 1 — applied AI program supported by the U.S. Embassy in Algeria
 - 📍 Algeria · Open to remote & relocation
 - 💬 Arabic (Native) · English (Advanced) · French (Advanced) · Russian (B2)
 - 🌐 [portfolio.bachenesoft.com](https://portfolio.bachenesoft.com)

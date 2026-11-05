@@ -1,8 +1,8 @@
-# Moundhir Bachene — Software Engineer & Mobile Product Builder
+# Moundhir Bachene — Mobile & Web Software Engineer
 
-> I build mobile apps and SaaS products that solve real business problems.
+> I build mobile apps and web platforms for businesses in Algeria.
 
-Software engineer with a 4+ year professional background, building production-ready mobile apps and SaaS platforms. From offline-first Flutter apps to multi-tenant web systems — focused on solving real business problems, not demo projects.
+Software engineer with 4+ years of professional experience. I build mobile apps with Flutter and web platforms with Laravel, from offline-first field apps to multi-tenant SaaS.
 
 ## 🚀 Shipped Products
 
